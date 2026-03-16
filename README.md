@@ -1,5 +1,9 @@
-# Sports Journalism & Copywriting
-Examples of sports journalism including interviews and editorial work produced for the Cardiff 7s Festival programme, and ghostwriting for elite athlete career pathway specialists, Athlete Career Transtion.
+# Sports Copywriting
+Examples of sports journalism including ghostwriting for elite athlete career pathway specialists, [ACT.Community](https://act.community/), and interviews and editorial work produced for the Cardiff 7s Festival programme.
+
+## ACT Community
+
+[ACT.Community](https://act.community/), formerly Athlete Career Transition, supports professional athletes as they transition from elite sport into new careers. I produced blog and ghostwritten thought-leadership content for founders Andy and Steve Moore and senior team members. Content published on LinkedIn and the ACT website.
 
 ## Cardiff 7s Festival Programme
 I served as co-editor and contributor to the official Cardiff 7s Festival programme, producing editorial content and interviews profiling players and personalities involved in the tournament.
@@ -26,6 +30,3 @@ A feature profiling some of the legends of the sevens game.
 
 ![Sevens legends feature](sevens.png)
 
-## ACT (Athlete Career Transition) Community
-
-[ACT.Community](https://act.community/) 
