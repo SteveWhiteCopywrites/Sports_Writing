@@ -3,7 +3,10 @@ Examples of sports journalism including ghostwriting for elite athlete career pa
 
 ## ACT Community
 
-[ACT.Community](https://act.community/), formerly Athlete Career Transition, supports professional athletes as they transition from elite sport into new careers. I produced blog and ghostwritten thought-leadership content for founders Andy and Steve Moore and senior team members. Content published on LinkedIn and the ACT website in partnership with [Ouma](https://www.ouma.co.uk/) creative marketing team.
+[ACT.Community](https://act.community/), formerly Athlete Career Transition, supports professional athletes as they transition from elite sport into new careers. Following weekly consultation and collaboration with ACT heads and [Ouma](https://www.ouma.co.uk/) creative marketing team, 
+I produced around 35 blog and ghostwritten thought-leadership content for founders Andy and Steve Moore and senior ACT team members. Content published on LinkedIn and the ACT website in partnership with [Ouma](https://www.ouma.co.uk/).
+
+I wrote social media copy to support delivery of blogs, as well as further ACT deliverables, including copy for job vacancies, athlete opportunities, announcements, and success stories. Publishing of these items was handled by [Ouma](https://www.ouma.co.uk/).
 
 ### Blog: What can we learn from athletes' career transitions?
 [Click here](https://www.linkedin.com/pulse/what-can-we-learn-from-athletes-career-transitions-andy-moore/?trackingId=3e5%2F5OzKRS6mRB5%2BMOm3Rw%3D%3D) to see the blog on LinkedIn.
