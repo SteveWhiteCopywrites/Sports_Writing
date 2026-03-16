@@ -7,8 +7,6 @@ Examples of sports journalism including ghostwriting for elite athlete career pa
 
 ### Featured Blog Articles
 
-Examples of blog content written for ACT.Community exploring athlete career transition, leadership and life beyond professional sport.
-
 
 ## Cardiff 7s Festival Programme
 I served as co-editor and contributor to the official Cardiff 7s Festival programme, producing editorial content and interviews profiling players and personalities involved in the tournament.
