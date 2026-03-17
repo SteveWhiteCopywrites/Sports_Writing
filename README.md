@@ -29,7 +29,7 @@ I wrote social media copy to support delivery of blogs, as well as further ACT d
 
 ![ACT blog article example](RE2.png)
 
-Further blog items written for ACT.Community include:
+Further blog items written for [ACT.Community](https://act.community/) include:
 
 - [Career transition tips from athletes who have made the jump](https://www.linkedin.com/pulse/career-transition-tips-from-athletes-who-have-made-jump-andy-moore/?trackingId=3e5%2F5OzKRS6mRB5%2BMOm3Rw%3D%3D)
 
