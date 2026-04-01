@@ -13,10 +13,6 @@ I wrote social media copy to support delivery of blogs, as well as further ACT d
 
 <img src="images/AM1.png" width="600">
 
-![ACT blog article example](AM1.png)
-
-![ACT blog article example](AM2.png)
-
 ### Blog: Harnessing the power of former professional athletes in the workplace: a winning strategy for success
 [Click here](https://www.linkedin.com/pulse/harnessing-power-former-professional-athletes-workplace-steve-moore/?trackingId=6%2FPJn890TnOfOZFpsQ848g%3D%3D) to see the blog on LinkedIn.
 
