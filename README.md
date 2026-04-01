@@ -14,18 +14,27 @@ Read on [LinkedIn](https://www.linkedin.com/pulse/what-can-we-learn-from-athlete
 
 <img src="images/AM1.png" width="600">
 
+---
+
+<img src="images/AM2.png" width="600">
+
 ### Blog: Harnessing the power of former professional athletes in the workplace: a winning strategy for success  
 
 Read on [LinkedIn](https://www.linkedin.com/pulse/harnessing-power-former-professional-athletes-workplace-steve-moore/?trackingId=6%2FPJn890TnOfOZFpsQ848g%3D%3D)
 
 <img src="images/SM1.png" width="600">
 
-### Blog: Why athletes bring a winning mentality to the workplace
-[Click here](https://www.linkedin.com/pulse/why-athletes-bring-winning-mentality-workplace-richard-evans/?trackingId=UaHbP3nDyY56SkQC7Jaqsw%3D%3D) to see the blog on LinkedIn.
+---
 
-![ACT blog article example](RE1.png)
+<img src="images/SM2.png" width="600">
 
-![ACT blog article example](RE2.png)
+### Blog: Why athletes bring a winning mentality to the workplace  
+
+Read on [LinkedIn](https://www.linkedin.com/pulse/why-athletes-bring-winning-mentality-workplace-richard-evans/?trackingId=UaHbP3nDyY56SkQC7Jaqsw%3D%3D)
+
+<img src="images/RE1.png" width="600">
+
+<img src="images/RE2.png" width="600">
 
 Further blog items written for [ACT.Community](https://act.community/) include:
 
