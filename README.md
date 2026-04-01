@@ -63,19 +63,19 @@ Further blog items written for [ACT.Community](https://act.community/) include:
 - [Athletic perspective: Coping without feedback](https://www.linkedin.com/pulse/athletic-perspective-coping-without-feedback-odette-hornby/?trackingId=TQ7NI7TghQ33n2i7MUhNiw%3D%3D)
 
 ## Cardiff 7s Festival Programme
-I served as co-editor and contributor to the official Cardiff 7s Festival programme, producing editorial content and interviews profiling players and personalities involved in the tournament.
+I served as co-editor and contributor to the official Cardiff 7s festival programme, producing editorial content and interviews profiling players and personalities involved in the tournament.
 
 The publication accompanied the annual rugby sevens festival held in Cardiff and featured event coverage, player profiles and tournament commentary.
 
 ### Interview: Gareth Thomas
-Interview with former Wales and British & Irish rugby player legend Gareth Thomas for the Cardiff 7s Festival programme.
+Interview with former Wales and British & Irish rugby player legend Gareth Thomas for the Cardiff 7s festival programme.
 
 The conversation explores Thomas’s career in professional rugby, the culture of the 15s game, the role of rugby sevens, and grassroots participation in both codes.
 
 <img src="images/Sevens1.png" width="600">
 
 ### Interview: Dafydd James
-Interview with former Wales and British & Irish Lions centre Dafydd James for the Cardiff 7s Festival programme.
+Interview with former Wales and British & Irish Lions centre Dafydd James for the Cardiff 7s festival programme.
 
 The piece reflects on James’s professional rugby career, his experiences at the elite level of the game and the continuing effectiveness of rugby sevens events in bringing together players and the wider rugby community.
 
