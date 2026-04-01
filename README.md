@@ -11,6 +11,8 @@ I wrote social media copy to support delivery of blogs, as well as further ACT d
 ### Blog: What can we learn from athletes' career transitions?
 [Click here](https://www.linkedin.com/pulse/what-can-we-learn-from-athletes-career-transitions-andy-moore/?trackingId=3e5%2F5OzKRS6mRB5%2BMOm3Rw%3D%3D) to see the blog on LinkedIn.
 
+<img src="images/AM1.png" width="600">
+
 ![ACT blog article example](AM1.png)
 
 ![ACT blog article example](AM2.png)
